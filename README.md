@@ -4,7 +4,7 @@ Project-manager is a free open source Project manager.
 
 ## installation
 ###
-$ git clone
+    $ git clone
 
 ## commands
 ### create new project -y
