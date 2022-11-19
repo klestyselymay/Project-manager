@@ -2,11 +2,15 @@
 
 Project-manager is a free open source Project manager.
 
+## installation
+###git
+
 ## commands
-### create new project
+### create new project -y
     pm <projname> <language>
     
 ### run project
     pm -run
 ### open project
     pn -open <projname>
+    
