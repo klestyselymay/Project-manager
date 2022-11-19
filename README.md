@@ -3,7 +3,8 @@
 Project-manager is a free open source Project manager.
 
 ## installation
-### $git
+###
+$ git clone
 
 ## commands
 ### create new project -y
