@@ -2,4 +2,5 @@
 
 Project-manager is a free open source Project manager.
 
-## features
+## commands
+$pm projname language -y
